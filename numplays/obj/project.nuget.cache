@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ET60k7jSK8+VoOsFfscJi6T3duV+wr8oA6w4nSYilFmuAW3XXDD0Nx9C3G0Zyzf2CptYKjNmZjzZznSpgRpi4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\grant\\code\\oklot\\numplays\\numplays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grant\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\grant\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
